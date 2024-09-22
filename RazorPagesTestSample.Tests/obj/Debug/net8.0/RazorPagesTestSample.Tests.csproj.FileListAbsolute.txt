@@ -1,0 +1,6 @@
+C:\Users\yeojw\OneDrive\Desktop\Git\Fall2024\Razor-Pages\RazorPagesTestSample.Tests\obj\Debug\net8.0\RazorPagesTestSample.Tests.csproj.AssemblyReference.cache
+C:\Users\yeojw\OneDrive\Desktop\Git\Fall2024\Razor-Pages\RazorPagesTestSample.Tests\obj\Debug\net8.0\RazorPagesTestSample.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeojw\OneDrive\Desktop\Git\Fall2024\Razor-Pages\RazorPagesTestSample.Tests\obj\Debug\net8.0\RazorPagesTestSample.Tests.AssemblyInfoInputs.cache
+C:\Users\yeojw\OneDrive\Desktop\Git\Fall2024\Razor-Pages\RazorPagesTestSample.Tests\obj\Debug\net8.0\RazorPagesTestSample.Tests.AssemblyInfo.cs
+C:\Users\yeojw\OneDrive\Desktop\Git\Fall2024\Razor-Pages\RazorPagesTestSample.Tests\obj\Debug\net8.0\RazorPagesTestSample.Tests.csproj.CoreCompileInputs.cache
+C:\Users\yeojw\OneDrive\Desktop\Git\Fall2024\Razor-Pages\RazorPagesTestSample.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_RazorPagesTestSample.Tests
